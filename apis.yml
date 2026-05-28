@@ -1,0 +1,32 @@
+aid: transport-for-united-states
+name: Transport for United States
+description: "NextBus API"
+url: https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Transport for United States
+    description: "NextBus API"
+    humanURL: https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf
+    baseURL: https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf
+common:
+  - type: Website
+    url: https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
