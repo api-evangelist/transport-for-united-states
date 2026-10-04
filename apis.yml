@@ -39,7 +39,6 @@ apis:
   - name: Transport for United States
     description: "NextBus API"
     humanURL: https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf
-    baseURL: https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf
     tags:
       - Transportation
     properties:
